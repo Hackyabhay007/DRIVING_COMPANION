@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DRIVING COMPANION</string>
+    <string name="camerax">CameraX</string>
+    <string name="cam_analyze">Camera With Analyzer</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="mlkit">DRIVING COMPANION</string>
+    <string name="realtime_face_detection">Real Time Face Detection</string>
+    <string name="capture_face_detection">Capturing &amp; Face Detection</string>
+    <string name="face_tracking">Face Detection and Tracking</string>
+    <string name="mlkit_object">ML Kit | Object Detection</string>
+    <string name="realtime_object_detection">Real Time Object Detection</string>
+    <string name="custom_model">Custom Model</string>
+    <string name="object_detection_local">Object Detection | Local</string>
+    <string name="image_classification_local">Image Classification | Local</string>
+    <string name="object_detection_local_video">Object Detection Video | Local</string>
+</resources>
